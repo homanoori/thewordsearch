@@ -1,0 +1,10 @@
+
+Welcome to file searching program.
+----------
+Processing data/Freedom.txt
+'freedom' found.
+	 Count: 44
+	 Lines: [5, 7, 9, 14, 15, 17, 19, 23, 25, 27, 29, 31]
+
+----------
+Program ends successfully.
